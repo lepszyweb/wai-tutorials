@@ -76,6 +76,8 @@ Explore other WAI-ARIA resources:
 
 Note: This approach using headings is also backward compatible for older web browsers and assistive technologies do not process HTML5 and WAI-ARIA.
 
+View a [complete code example](/tutorials/page-structure/example/) with regions and labels.
+
 ## Using `aria-label`
 {:.ap}
 
@@ -97,4 +99,3 @@ Use the WAI-ARIA `aria-label` attribute to label the region. Consider this appro
 
 {% include ednote.html note="Figure out how to display links now that the sidebar is not available anymore." %}
 
-View a [complete code example](/tutorials/page-structure/example/) with regions and labels.
