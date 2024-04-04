@@ -13,7 +13,7 @@ translators:
 github:
   branch: 'master-2.0'
   repository: w3c/wai-tutorials
-  path: 'content/images/decision-tree.kr.md'  # Add the language shortcode to the middle of the filename, for example: content/index.fr.md
+  path: 'content/images/decision-tree.ko.md'  # Add the language shortcode to the middle of the filename, for example: content/index.fr.md
 
 resource:
   ref: /tutorials/images/  # Do not change this
@@ -22,7 +22,7 @@ navigation:
   previous: /tutorials/images/imagemap/  # Do not change this
   next: /tutorials/images/tips/  # Do not change this
 
-permalink: /tutorials/images/decision-tree/kr # Add the language shortcode to the end, with no slash at end, for example: /link/to/page/fr
+permalink: /tutorials/images/decision-tree/ko # Add the language shortcode to the end, with no slash at end, for example: /link/to/page/fr
 ref: /tutorials/images/decision-tree/ # Do not change this
 
 # In the footer below:
