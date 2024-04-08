@@ -55,7 +55,7 @@ Dieser Entscheidungsbaum beschreibt, wie man das `alt`-Attribut des `<img>`-Elem
       _Nutzen Sie ein leeres `alt`-Attribut. Siehe [Dekorative Bilder](/tutorials/images/decorative/)._
     -   **… und der Text hat eine bestimmte Funktion, beispielsweise handelt es sich um ein Icon.**
       _Nutzen Sie das `alt`-Attribut, um die Funktion des Bildes zu kommunizieren. Siehe [Funktionale Bilder](/tutorials/images/functional/)._
-    -   **… und der Text im Bild ist ansonsten nicht vorhanden.** _Nutzen Sie das `alt`-Attribut, um den Text aus dem Bild zu wiederholen. Siehe [Bilder von Text](/tutorials/images/textual/#styled-text-decorative-effect)._
+    -   **… und der Text im Bild kommt sonst nirgends vor.** _Nutzen Sie das `alt`-Attribut, um den Text aus dem Bild zu wiederholen. Siehe [Bilder von Text](/tutorials/images/textual/#styled-text-decorative-effect)._
   - {:.no} **Nein:**
     - Fahren Sie fort.
 - **Wird das Bild in einem Link oder Button verwendet und wäre es schwer oder unmöglich zu verstehen, was der Link oder Button tut, wenn das Bild fehlen würde?**
@@ -67,7 +67,7 @@ Dieser Entscheidungsbaum beschreibt, wie man das `alt`-Attribut des `<img>`-Elem
   - {:.yes} **Ja:**
     - **… und es ist eine einfache Grafik oder ein Foto.**
       _Nutzen Sie eine kurze Beschreibung des Bildes im `alt`-Attribut, die diese Bedeutung vermittelt. Siehe [Informative Bilder](/tutorials/images/informative/)._
-    - **… und es ist ein Graph oder komplexe Information.**
+    - **… und es ist ein Graph oder stellt komplexe Informationen dar.**
       _Vermitteln Sie die Information aus dem Bild auch an anderer Stelle auf der Seite. Siehe [Komplexe Bilder](/tutorials/images/complex/)._
     - **… und es zeigt Inhalt, der in *richtigem* Text in der Nähe enthalten ist.**
       _Nutzen Sie ein leeres `alt`-Attribut. Siehe (redundante) [Funktionale Bilder](/tutorials/images/functional/#logo-image-within-link-text)._
