@@ -2,7 +2,7 @@
 title: "Ein alt-Entscheidungsbaum"
 title_html: "Ein <code>alt</code>-Entscheidungsbaum"
 lang: de
-last_updated: 2023-12-22
+last_updated: 2024-04-08
 
 translators:
   - name: "Alexej Rotar"
