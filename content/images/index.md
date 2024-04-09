@@ -14,6 +14,8 @@ metafooter: true
 
 resource:
   ref: /tutorials/
+  title: "Images Tutorials"
+
 navigation:
   next: /tutorials/images/informative/
 
