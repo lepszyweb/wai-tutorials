@@ -87,5 +87,5 @@ This decision tree describes how to use the `alt` attribute of the `<img>` eleme
   - {:.no} **No:**
     - Continue.
 - **Is the image’s use not listed above or it’s unclear what `alt` text to provide?**
-  - {:.yes} This decision tree **does not** cover all cases. For detailed information on the provision of text alternatives refer to the [Image Concepts Page](/tutorials/images/).
+  - {:.yes} This decision tree **does not** cover all cases. For detailed information on the provision of text alternatives refer to the [[Images Tutorials]](/tutorials/images/).
 {:.decision-tree}
