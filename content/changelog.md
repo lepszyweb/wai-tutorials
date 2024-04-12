@@ -27,6 +27,10 @@ This changelog lists substantive content edits. It does **not** list typo fixes 
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
+## April 16 2024
+* Fixing a broken link in https://www.w3.org/WAI/tutorials/forms/instructions/#placeholder-text [#735](https://github.com/w3c/wai-tutorials/pull/735)
+* Fixing a color contrast issue in https://www.w3.org/WAI/tutorials/forms/multi-page/#using-the-html5-progress-element [#732](https://github.com/w3c/wai-tutorials/pull/732)
+* Fixing a table header issue in https://www.w3.org/WAI/tutorials/tables/multi-level/#table-with-multiple-column-headers-in-each-column [#726](https://github.com/w3c/wai-tutorials/pull/726)
 
 ## February 2023
 
