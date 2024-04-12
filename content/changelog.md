@@ -28,9 +28,15 @@ This changelog lists substantive content edits. It does **not** list typo fixes 
 {% include box.html type="end" %}
 {:/}
 ## April 16 2024
-* Fixing a broken link in https://www.w3.org/WAI/tutorials/forms/instructions/#placeholder-text [#735](https://github.com/w3c/wai-tutorials/pull/735)
-* Fixing a color contrast issue in https://www.w3.org/WAI/tutorials/forms/multi-page/#using-the-html5-progress-element [#732](https://github.com/w3c/wai-tutorials/pull/732)
-* Fixing a table header issue in https://www.w3.org/WAI/tutorials/tables/multi-level/#table-with-multiple-column-headers-in-each-column [#726](https://github.com/w3c/wai-tutorials/pull/726)
+In [Forms tutorial](https://www.w3.org/WAI/tutorials/forms/)
+* Fixing a broken link in [Form Instructions](https://www.w3.org/WAI/tutorials/forms/instructions/#placeholder-text)
+  * [GitHub PR #735](https://github.com/w3c/wai-tutorials/pull/735)
+* Fixing a color contrast issue in [Multi-page Forms](https://www.w3.org/WAI/tutorials/forms/multi-page/#using-the-html5-progress-element)
+  * [GitHub PR #732](https://github.com/w3c/wai-tutorials/pull/732)
+
+In [Tables tutorial](https://www.w3.org/WAI/tutorials/tables/)
+* Fixing a table header issue in [Tables with Multi-Level Headers](https://www.w3.org/WAI/tutorials/tables/multi-level/#table-with-multiple-column-headers-in-each-column)
+  * [GitHub PR #726](https://github.com/w3c/wai-tutorials/pull/726)
 
 ## February 2023
 
