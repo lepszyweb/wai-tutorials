@@ -40,6 +40,7 @@ In [Tables tutorial](/tutorials/tables/)
 
 In [Images tutorial](/tutorials/images/decision-tree/)
 * Updating link text in [An _Alt_ Decision Tree](/tutorials/images/decision-tree/)
+  * [GitHub PR #774](https://github.com/w3c/wai-tutorials/pull/774)
 
 Added notes about responsive design/smaller screen considerations to:
 * [Page Structure > Page Regions](/tutorials/page-structure/regions/)
