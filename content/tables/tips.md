@@ -17,7 +17,7 @@ navigation:
   previous: /tutorials/tables/caption-summary/
 
 metafooter: true
-last_updated: 2023-11-08
+last_updated: 2024-05-13
 editors:
   - Eric Eggert: "https://www.w3.org/People/yatil/"
   - Shadi Abou-Zahra: "https://www.w3.org/People/shadi/"
