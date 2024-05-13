@@ -24,7 +24,7 @@ wcag_success_criteria:
 
 metafooter: true
 first_published: "May 2015"
-last_updated: 2018-08-30
+last_updated: 2024-05-13
 editors:
   - Eric Eggert: "https://www.w3.org/People/yatil/"
   - Shadi Abou-Zahra: "https://www.w3.org/People/shadi/"
@@ -44,7 +44,7 @@ Use appropriately sized buttons and links, and provide whitespace around them, t
 ![Example using semi-transparent background colors to ensure sufficient contrast.]({{ "/content-images/wai-tutorials/carousels/carousels-styling-contrast.png" | relative_url }}){:.left} Ensure sufficient contrast between the foreground and the background of text, links, and buttons. This can be a challenge when text or buttons are positioned on top of images. In that case, a (semi-) opaque background color can help to maintain the contrast regardless of the image used.
 
 
-{% include ednote.html note="The following paragraph was show in a side column before." %}For more information on contrast requirements, see [Provide sufficient contrast between foreground and background](https://www.w3.org/WAI/gettingstarted/tips/designing.html#provide-sufficient-contrast-between-foreground-and-background).
+{% include ednote.html note="The following paragraph was show in a side column before." %}For more information on contrast requirements, see [Provide sufficient contrast between foreground and background](/tips/designing/#provide-sufficient-contrast-between-foreground-and-background).
 
 ## Indicate Button Status
 
@@ -117,3 +117,7 @@ In the following example, a filled square is used for buttons associated with it
 {:/}
 
 {% include ednote.html note="The following paragraph was show in a side column before." %}A [working demo example](/tutorials/carousels/working-example/) for this code is available.
+
+## For smaller screens/small viewports
+Ensure all text is readable and not cut off or unnecessarily truncated. Make sure that [navigation buttons](/tutorials/carousels/functionality/#add-navigation-buttons) to control the slides are available, since some people cannot use swipe gestures.
+
