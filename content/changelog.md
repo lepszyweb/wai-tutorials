@@ -38,7 +38,7 @@ In [Tables tutorial](/tutorials/tables/)
 * Fixing a table header issue in [Tables with Multi-Level Headers](/tutorials/tables/multi-level/#table-with-multiple-column-headers-in-each-column)
   * [GitHub PR #726](https://github.com/w3c/wai-tutorials/pull/726)
 
-In [Images tutorial](/tutorials/images/decision-tree/)
+In [Images tutorial](/tutorials/images/)
 * Updating link text in [An _Alt_ Decision Tree](/tutorials/images/decision-tree/)
   * [GitHub PR #774](https://github.com/w3c/wai-tutorials/pull/774)
 
