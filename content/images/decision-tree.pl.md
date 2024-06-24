@@ -57,7 +57,7 @@ To drzewo decyzyjne opisuje, jak w różnych sytuacjach używać atrybutu `alt` 
 
 - **Czy obraz zawiera tekst?**
   - {:.yes} **Tak:**
-    -   **…  i tekst istnieje także w pobliżu jako *rzeczywisty* tekst *real*.**
+    -   **…  i tekst istnieje także w pobliżu jako *rzeczywisty* tekst.**
       _Użyj pustego atrybutu  `alt`. Zobacz [Obrazy dekoracyjne](/tutorials/images/decorative/)._
     -   **… i tekst jest wyświetlany tylko dla efektu wizualnego.**
       _Użyj pustego atrybutu  `alt`. Zobacz [Obrazy dekoracyjne](/tutorials/images/decorative/)._
